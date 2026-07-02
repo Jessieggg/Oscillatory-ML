@@ -1,5 +1,4 @@
 # Oscillatory-ML
- Oscillatory Machine Learning
 
 ## Week 1：Foundations of Synchronization Dynamics
 
@@ -30,7 +29,7 @@
 
 ---
 
-## Week 3：Oscillatory Neural Architectures
+## Week 3：Oscillatory Neural Architectures - II （oscillatory Neural）
 
 ### Main Reference
 
@@ -64,7 +63,7 @@
 
 ---
 
-## Week 5：Kuramoto / Synchronization for Generative Modeling
+## Week 5：Kuramoto for Generative Modeling
 
 ### Main Reference
 

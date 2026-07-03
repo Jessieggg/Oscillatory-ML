@@ -29,7 +29,7 @@
 
 ---
 
-## Week 3：Oscillatory Neural Architectures - II （oscillatory Neural）
+## Week 3：Oscillatory Neural Architectures - II （Oscillatory Neural）
 
 ### Main Reference
 
@@ -75,7 +75,7 @@
 
 ---
 
-## Week 6：Data Augmentation and Training methods
+## Week 6：AKOrN Applications and Kuramoto for Training methods
 
 ### Main Reference
 

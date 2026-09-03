@@ -83,11 +83,11 @@
 ### Main Reference
 
 - **Oscillatory State-Space Models** — *ICLR*, 2025. Oral.
-- **Modeling and Stabilizing Perturbation Propagation in Multimodal Learning via Oscillatory State-Space Dynamics** — *Scientific Reports*, 2026.
 
 ### Related Reference
 
 - Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers — *arXiv preprint*, 2026.
+- Modeling and Stabilizing Perturbation Propagation in Multimodal Learning via Oscillatory State-Space Dynamics — *Scientific Reports*, 2026.
 
 ---
 
@@ -97,11 +97,9 @@
 
 - **The Phase Is the Gradient: Equilibrium Propagation for Frequency Learning in Kuramoto Networks** — *arXiv preprint*, 2026.
 - **Beyond Data Augmentation: Energy-Based Kuramoto Neurons for Semi-Supervised Learning** — *CVPR Workshops*, 2026.
-- **Training and Synchronizing Oscillator Networks with Equilibrium Propagation** — *Neuromorphic Computing and Engineering*, 2025.
 
 ### Related Reference
 
 - Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation — *Frontiers in Computational Neuroscience*, 2017.
-- A Constrained Kuramoto Gradient-Flow System Can Perform High-Accuracy Finite-Time Inference — *arXiv preprint*, 2026.
-- Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings — *arXiv preprint*, 2026.
+
 ---

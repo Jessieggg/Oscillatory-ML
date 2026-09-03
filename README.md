@@ -1,6 +1,5 @@
 # Oscillatory-ML
 
-> **Venue convention:** formal conference/journal/book venues are listed when verified. `arXiv preprint` means no formal peer-reviewed venue was verified as of September 3, 2026.
 
 ## Topic 1：Foundations of Synchronization Dynamics
 

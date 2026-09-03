@@ -36,11 +36,12 @@
 
 - **Artificial Kuramoto Oscillatory Neurons (AKOrN)** — *ICLR*, 2025.
 - **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** — *ICML*, 2026.
+- **Winfree Oscillatory Neural Network** — *arXiv preprint*, 2026.
+- **Learnable Sequential Memory in Coupled Oscillator Networks** — *arXiv preprint*, 2026.
 
 ### Related Reference
 
 - From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach — *AISTATS*, 2024.
-- Winfree Oscillatory Neural Network — *arXiv preprint*, 2026.
 - KuraNet: Systems of Coupled Oscillators that Learn to Synchronize — *arXiv preprint*, 2021.
 - The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics — *arXiv preprint*, 2026.
 - Binding Threshold Units with Artificial Oscillatory Neurons — *arXiv preprint*, 2025.
@@ -53,15 +54,13 @@
 
 - **Krause Synchronization Transformers** — *ICML*, 2026.
 - **The Emergence of Clusters in Self-Attention Dynamics** — *NeurIPS*, 2023.
+- **Attention by Synchronization in Coupled Oscillator Networks** — *arXiv preprint*, 2026.
 
 ### Related Reference
 
 - Kuramoto Attention: Synchronizing Self-Attention on the Torus — *arXiv preprint*, 2026.
 - Attention as Frustrated Synchronization — *arXiv preprint*, 2026.
-- Attention by Synchronization in Coupled Oscillator Networks — *arXiv preprint*, 2026.
 - Hopfield Networks is All You Need — *ICLR*, 2021.
-- Energy Transformer — *NeurIPS*, 2023.
-- RoFormer: Enhanced Transformer with Rotary Position Embedding — *Neurocomputing*, 2024 (preprint first released in 2021).
 
 ---
 
@@ -78,27 +77,8 @@
 
 ---
 
-## Topic 6：AKOrN Applications and Kuramoto Learning / Physical Implementations
 
-### Main Reference
-
-- **Beyond Data Augmentation: Energy-Based Kuramoto Neurons for Semi-Supervised Learning** — *CVPR Workshops*, 2026.
-- **Training and Synchronizing Oscillator Networks with Equilibrium Propagation** — *Neuromorphic Computing and Engineering*, 2025.
-
-### Related Reference
-
-- Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation — *Frontiers in Computational Neuroscience*, 2017.
-- The Phase Is the Gradient: Equilibrium Propagation for Frequency Learning in Kuramoto Networks — *arXiv preprint*, 2026.
-- A Constrained Kuramoto Gradient-Flow System Can Perform High-Accuracy Finite-Time Inference — *arXiv preprint*, 2026.
-- Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings — *arXiv preprint*, 2026.
-- Energy Transformer — *NeurIPS*, 2023.
-- Design of Oscillatory Neural Networks Using Machine-Learned Templates — *Electronics*, 2026.
-- Graph Coloring Approach to Solving Sudoku with Oscillatory Neural Networks — *arXiv preprint*, 2026.
-- ODEONN: A Digital ODE Solver Architecture for Oscillatory Neural Networks — *arXiv preprint*, 2026.
-
----
-
-## Topic 7：Oscillatory State-Space Models
+## Topic 6：Oscillatory State-Space Models
 
 ### Main Reference
 
@@ -109,3 +89,20 @@
 
 - Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers — *arXiv preprint*, 2026.
 - Learnable Sequential Memory in Coupled Oscillator Networks — *arXiv preprint*, 2026.
+
+---
+
+## Topic 7：AKOrN Applications and Kuramoto Learning / Physical Implementations
+
+### Main Reference
+
+- **The Phase Is the Gradient: Equilibrium Propagation for Frequency Learning in Kuramoto Networks** — *arXiv preprint*, 2026.
+- **Beyond Data Augmentation: Energy-Based Kuramoto Neurons for Semi-Supervised Learning** — *CVPR Workshops*, 2026.
+- **Training and Synchronizing Oscillator Networks with Equilibrium Propagation** — *Neuromorphic Computing and Engineering*, 2025.
+
+### Related Reference
+
+- Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation — *Frontiers in Computational Neuroscience*, 2017.
+- A Constrained Kuramoto Gradient-Flow System Can Perform High-Accuracy Finite-Time Inference — *arXiv preprint*, 2026.
+- Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings — *arXiv preprint*, 2026.
+---

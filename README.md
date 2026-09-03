@@ -88,7 +88,6 @@
 ### Related Reference
 
 - Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers — *arXiv preprint*, 2026.
-- Learnable Sequential Memory in Coupled Oscillator Networks — *arXiv preprint*, 2026.
 
 ---
 

@@ -35,7 +35,7 @@
 
 ### Main Reference
 
-- **[OSCILLATORY STATE-SPACE MODELS]** — ICLR, 2025.
+- **OSCILLATORY STATE-SPACE MODELS** — *ICLR*, 2025.
 - **[Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers](https://arxiv.org/abs/2606.02623)** — *arXiv preprint*, 2026.
 - **[Modeling and Stabilizing Perturbation Propagation in Multimodal Learning via Oscillatory State-Space Dynamics](https://doi.org/10.1038/s41598-026-65896-5)** — *Scientific Reports*, 2026.
 

@@ -33,7 +33,7 @@
 
 ---
 
-## Week 3：Oscillatory Neural Architectures - II （Oscillatory Neural）
+## Week 3：Oscillatory Neural Architectures - II （Oscillatory Neurons）
 
 ### Main Reference
 

@@ -91,7 +91,7 @@
 
 ---
 
-## Topic 7：AKOrN Applications and Kuramoto Learning / Physical Implementations
+## Topic 7：Kuramoto Learning / Physical Implementations
 
 ### Main Reference
 
@@ -101,5 +101,6 @@
 ### Related Reference
 
 - Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation — *Frontiers in Computational Neuroscience*, 2017.
+- A Constrained Kuramoto Gradient-Flow System Can Perform High-Accuracy Finite-Time Inference — *arXiv preprint*, 2026.
 
 ---

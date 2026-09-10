@@ -1,24 +1,35 @@
 # Oscillatory-ML
 
-## Topic 1：Foundations of Synchronization Dynamics
+## Topic 1：Foundations of Kuramoto Synchronization
 
 ### Main Reference
 
 - **Kuramoto, 1984 — Chemical Oscillations, Waves, and Turbulence** — *Springer Series in Synergetics, Vol. 19 (Book)*, 1984.
 - **Winfree, 1967 — Biological Rhythms and the Behavior of Populations of Coupled Oscillators** — *Journal of Theoretical Biology*, 1967.
-- **Strogatz, 2000 — From Kuramoto to Crawford: Exploring the Onset of Synchronization in Populations of Coupled Oscillators** — *Physica D: Nonlinear Phenomena*, 2000.
-- **Neural Oscillators are Universal** — *NeurIPS*, 2023.
+- **Strogatz, 2000 — From Kuramoto to Crawford: Exploring the Onset of Synchronization in Populations of Coupled Oscillators** — *Physica D: Nonlinear Phenomena*, 2000. **Primary reading.**
+- **The Kuramoto Model: A Simple Paradigm for Synchronization Phenomena** — *Reviews of Modern Physics*, 2005.
 
 ### Related Reference
 
 - Breakspear et al. — *Generative Models of Cortical Oscillations: Neurobiological Implications of the Kuramoto Model* — *Frontiers in Human Neuroscience*, 2010.
 - Manoranjani et al. — *Generalization of the Kuramoto Model to the Winfree Model by a Symmetry Breaking Coupling* — *The European Physical Journal Plus*, 2023.
-- Multiorder Laplacian for Synchronization in Higher-Order Networks — *Physical Review Research*, 2020.
-- Optimizing Higher-Order Network Topology for Synchronization of Coupled Phase Oscillators — *Communications Physics*, 2022.
 
 ---
 
-## Topic 2：Oscillatory Neural Architectures - I （RNN/GNN）
+## Topic 2：Higher-Order Kuramoto Theory
+
+### Main Reference
+
+- **Optimizing Higher-Order Network Topology for Synchronization of Coupled Phase Oscillators** — *Communications Physics*, 2022.
+- **On the Role of Higher-Order Interactions Toward First Synchronization Time** — *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2026.
+
+### Related Reference
+
+- Multiorder Laplacian for Synchronization in Higher-Order Networks — *Physical Review Research*, 2020.
+
+---
+
+## Topic 3：Oscillatory Neural Architectures - I （RNN/GNN）
 
 ### Main Reference
 
@@ -34,10 +45,11 @@
 
 ---
 
-## Topic 3：Oscillatory Neural Architectures - II （Oscillatory Neurons）
+## Topic 4：Oscillatory Neural Architectures - II （Oscillatory Neurons）
 
 ### Main Reference
 
+- **Neural Oscillators are Universal** — *NeurIPS*, 2023.
 - **Artificial Kuramoto Oscillatory Neurons (AKOrN)** — *ICLR*, 2025.
 - **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** — *ICML*, 2026.
 - **Winfree Oscillatory Neural Network** — *arXiv preprint*, 2026.
@@ -51,12 +63,12 @@
 
 ---
 
-## Topic 4：Attention as Synchronization
+## Topic 5：Attention as Synchronization
 
 ### Main Reference
 
 - **Krause Synchronization Transformers** — *ICML*, 2026.
-- **Attention by Synchronization in Coupled Oscillator Networks**— *arXiv preprint*, 2026.
+- **Attention by Synchronization in Coupled Oscillator Networks** — *arXiv preprint*, 2026.
 - **Kuramoto Attention: Synchronizing Self-Attention on the Torus** — *arXiv preprint*, 2026.
 - **Attention as Frustrated Synchronization** — *arXiv preprint*, 2026.
 
@@ -69,7 +81,7 @@
 
 ---
 
-## Topic 5：Kuramoto for Generative Modeling
+## Topic 6：Kuramoto for Generative Modeling
 
 ### Main Reference
 
@@ -82,7 +94,7 @@
 
 ---
 
-## Topic 6：Oscillatory State-Space Models
+## Topic 7：Oscillatory State-Space Models
 
 ### Main Reference
 
@@ -97,7 +109,7 @@
 
 ---
 
-## Topic 7：Kuramoto Learning / Physical Implementations
+## Topic 8：Kuramoto Learning / Physical Implementations
 
 ### Main Reference
 
@@ -111,7 +123,7 @@
 
 ---
 
-## Topic 8：Traveling Waves & Memory
+## Topic 9：Traveling Waves & Memory
 
 ### Main Reference
 
@@ -124,7 +136,8 @@
 - NAACA: Training-Free NeuroAuditory Attentive Cognitive Architecture with Oscillatory Working Memory for Salience-Driven Attention Gating — *ICML*, 2026.
 
 ---
-## Topic 9：Oscillatory Models for Bio
+
+## Topic 10：Oscillatory Models for Bio
 
 ### Main Reference
 

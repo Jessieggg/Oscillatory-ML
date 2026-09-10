@@ -124,3 +124,10 @@
 - NAACA: Training-Free NeuroAuditory Attentive Cognitive Architecture with Oscillatory Working Memory for Salience-Driven Attention Gating — *ICML*, 2026.
 
 ---
+## Topic 9：Oscillatory Models for Bio
+
+### Main Reference
+
+- **Inferring circadian phases and quantifying biological desynchrony across single-cell transcriptomes** — *bioRxiv*, 2026.
+
+---

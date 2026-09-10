@@ -29,19 +29,22 @@
 
 ---
 
-## Topic 3：Oscillatory Neural Architectures - I （RNN/GNN）
+## Topic 3：Oscillatory Neural Architectures - I （RNN/GNN/Reservoir）
 
 ### Main Reference
 
 - **coRNN: Coupled Oscillatory Recurrent Neural Network** — *ICLR*, 2021.
 - **Graph-Coupled Oscillator Networks (GraphCON)** — *ICML*, 2022.
 - **Let Brain Rhythm Shape Machine Intelligence for Connecting Dots on Graphs** — *NeurIPS*, 2025.
+- **The Functional Role of Oscillatory Dynamics in Neocortical Circuits: A Computational Perspective** — *Proceedings of the National Academy of Sciences (PNAS)*, 2025.
+- **Explore Brain-Inspired Machine Intelligence for Connecting Dots on Graphs Through Holographic Blueprint of Oscillatory Synchronization** — *Nature Communications*, 2025.
 
 ### Related Reference
 
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences — *NeurIPS*, 2016.
 - Oscillations in an Artificial Neural Network Convert Competing Inputs into a Temporal Code — *PLOS Computational Biology*, 2024.
 - From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination — *arXiv preprint*, 2026.
+- Reservoir Computing Approach to Quantum State Measurement — *Physical Review X*, 2021.
 
 ---
 
@@ -115,6 +118,7 @@
 
 - **The Phase Is the Gradient: Equilibrium Propagation for Frequency Learning in Kuramoto Networks** — *arXiv preprint*, 2026.
 - **Beyond Data Augmentation: Energy-Based Kuramoto Neurons for Semi-Supervised Learning** — *CVPR Workshops*, 2026.
+- **Binding Events Through the Mutual Synchronization of Spintronic Nano-Neurons** — *Nature Communications*, 2022.
 
 ### Related Reference
 
@@ -134,6 +138,7 @@
 
 - Learnable Sequential Memory in Coupled Oscillator Networks — *arXiv preprint*, 2026.
 - NAACA: Training-Free NeuroAuditory Attentive Cognitive Architecture with Oscillatory Working Memory for Salience-Driven Attention Gating — *ICML*, 2026.
+- The Functional Role of Oscillatory Dynamics in Neocortical Circuits: A Computational Perspective — *Proceedings of the National Academy of Sciences (PNAS)*, 2025. Cross-reference from Topic 3.
 
 ---
 
@@ -142,5 +147,9 @@
 ### Main Reference
 
 - **Inferring circadian phases and quantifying biological desynchrony across single-cell transcriptomes** — *bioRxiv*, 2026.
+
+### Related Reference
+
+- Explore Brain-Inspired Machine Intelligence for Connecting Dots on Graphs Through Holographic Blueprint of Oscillatory Synchronization — *Nature Communications*, 2025. Cross-reference from Topic 3.
 
 ---

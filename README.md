@@ -40,12 +40,11 @@
 
 - **Artificial Kuramoto Oscillatory Neurons (AKOrN)** — *ICLR*, 2025.
 - **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** — *ICML*, 2026.
-- **Continuous Thought Machines** — *NeurIPS*, 2025.
+- **Winfree Oscillatory Neural Network** — *arXiv preprint*, 2026.
 
 ### Related Reference
 
 - From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach — *AISTATS*, 2024.
-- Winfree Oscillatory Neural Network — *arXiv preprint*, 2026.
 - KuraNet: Systems of Coupled Oscillators that Learn to Synchronize — *arXiv preprint*, 2021.
 - The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics — *arXiv preprint*, 2026.
 - Binding Threshold Units with Artificial Oscillatory Neurons — *arXiv preprint*, 2025.
@@ -57,15 +56,15 @@
 ### Main Reference
 
 - **Krause Synchronization Transformers** — *ICML*, 2026.
-- **The Emergence of Clusters in Self-Attention Dynamics** — *NeurIPS*, 2023.
-- **Clustering in Causal Attention Masking** — *NeurIPS*, 2024.
-- **Normalization in Attention Dynamics** — *NeurIPS*, 2025.
+- **Attention by Synchronization in Coupled Oscillator Networks**— *arXiv preprint*, 2026.
+- **Kuramoto Attention: Synchronizing Self-Attention on the Torus** — *arXiv preprint*, 2026.
+- **Attention as Frustrated Synchronization** — *arXiv preprint*, 2026.
 
 ### Related Reference
 
-- Attention by Synchronization in Coupled Oscillator Networks — *arXiv preprint*, 2026.
-- Kuramoto Attention: Synchronizing Self-Attention on the Torus — *arXiv preprint*, 2026.
-- Attention as Frustrated Synchronization — *arXiv preprint*, 2026.
+- The Emergence of Clusters in Self-Attention Dynamics — *NeurIPS*, 2023.
+- Clustering in Causal Attention Masking — *NeurIPS*, 2024.
+- Normalization in Attention Dynamics — *NeurIPS*, 2025.
 - Hopfield Networks is All You Need — *ICLR*, 2021.
 
 ---

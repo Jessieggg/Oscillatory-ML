@@ -20,11 +20,13 @@
 
 ### Main Reference
 
+- **Collective Dynamics on Higher-Order Networks** — *Nature Reviews Physics*, 2026.
 - **Optimizing Higher-Order Network Topology for Synchronization of Coupled Phase Oscillators** — *Communications Physics*, 2022.
 - **On the Role of Higher-Order Interactions Toward First Synchronization Time** — *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2026.
 
 ### Related Reference
 
+- The Physics of Higher-Order Interactions in Complex Systems — *Nature Physics*, 2021.
 - Multiorder Laplacian for Synchronization in Higher-Order Networks — *Physical Review Research*, 2020.
 
 ---

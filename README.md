@@ -31,7 +31,7 @@
 
 ---
 
-## Topic 3：Oscillatory Neural Architectures - I （RNN/GNN/Reservoir）
+## Topic 3：Oscillatory Neural Architectures - I （RNN/GNN）
 
 ### Main Reference
 
@@ -46,7 +46,6 @@
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences — *NeurIPS*, 2016.
 - Oscillations in an Artificial Neural Network Convert Competing Inputs into a Temporal Code — *PLOS Computational Biology*, 2024.
 - From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination — *arXiv preprint*, 2026.
-- Reservoir Computing Approach to Quantum State Measurement — *Physical Review X*, 2021.
 
 ---
 

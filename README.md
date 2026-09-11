@@ -120,7 +120,6 @@
 
 - **The Phase Is the Gradient: Equilibrium Propagation for Frequency Learning in Kuramoto Networks** — *arXiv preprint*, 2026.
 - **Beyond Data Augmentation: Energy-Based Kuramoto Neurons for Semi-Supervised Learning** — *CVPR Workshops*, 2026.
-- **Binding Events Through the Mutual Synchronization of Spintronic Nano-Neurons** — *Nature Communications*, 2022.
 
 ### Related Reference
 

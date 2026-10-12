@@ -104,7 +104,7 @@
 
 - **Oscillatory State-Space Models** — *ICLR*, 2025. Oral.
 - **BioOSS: A Bio-Inspired Oscillatory State System with Spatio-Temporal Dynamics** — *NeurIPS*, 2025.
-
+- **Understanding Mamba-3 Through Oscillatory Dynamics** -*arXiv preprint*, 2026.
 ### Related Reference
 
 - Learning to Dissipate Energy in Oscillatory State-Space Models — *arXiv preprint*, 2025.

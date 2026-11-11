@@ -56,7 +56,7 @@
 - **Neural Oscillators are Universal** — *NeurIPS*, 2023.
 - **Artificial Kuramoto Oscillatory Neurons (AKOrN)** — *ICLR*, 2025.
 - **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** — *ICML*, 2026.
-- **Winfree Oscillatory Neural Network** — *arXiv preprint*, 2026.
+- **Winfree Oscillatory Neural Network** — *NeurIPS*, 2026, Spotlight.
 
 ### Related Reference
 

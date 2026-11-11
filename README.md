@@ -90,6 +90,7 @@
 ### Main Reference
 
 - **Kuramoto Orientation Diffusion Models** — *NeurIPS*, 2025.
+- **Kuramoto Decision Diffusion Models** — *arXiv preprint*, 2026.
 
 ### Related Reference
 

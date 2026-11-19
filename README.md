@@ -65,6 +65,12 @@
 - The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics — *arXiv preprint*, 2026.
 - Binding Threshold Units with Artificial Oscillatory Neurons — *arXiv preprint*, 2025.
 
+### Binding & Communication
+
+- **Rotating Features for Object Discovery** — *NeurIPS*, 2023.
+- **Enhancing Deep Neural Networks Through Complex-Valued Representations and Kuramoto Synchronization Dynamics (KomplexNet)** — *Transactions on Machine Learning Research (TMLR)*, 2025.
+- Exploring Synchrony for Communication in Modular Neural Networks (SyncNet) — *arXiv preprint*, 2026.
+
 ---
 
 ## Topic 5：Attention as Synchronization
@@ -96,6 +102,10 @@
 
 - Score-Based Generative Modeling through Stochastic Differential Equations — *ICLR*, 2021.
 - Orientation Diffusions — *IEEE Transactions on Image Processing*, 1998.
+
+### Project Reference
+
+- Introducing Un-0: Generating Images with Coupled Oscillators — *Unconventional AI project blog and code release (not peer-reviewed)*, 2026.
 
 ---
 
@@ -141,6 +151,12 @@
 - NAACA: Training-Free NeuroAuditory Attentive Cognitive Architecture with Oscillatory Working Memory for Salience-Driven Attention Gating — *ICML*, 2026.
 - The Functional Role of Oscillatory Dynamics in Neocortical Circuits: A Computational Perspective — *Proceedings of the National Academy of Sciences (PNAS)*, 2025. Cross-reference from Topic 3.
 
+### Associative Memory
+
+- **Oscillatory Associative Memory with Exponential Capacity** — *IEEE Conference on Decision and Control (CDC)*, 2025.
+- Higher-Order Kuramoto Oscillator Network for Dense Associative Memory — *arXiv preprint*, 2025.
+- Oscillatory Associative Memory Networks for Binary Pattern Retrieval: Stability and Error-Free Retrieval — *Discrete and Continuous Dynamical Systems - I: Intelligence (Review)*, 2026.
+
 ---
 
 ## Topic 10：Oscillatory Models for Bio
@@ -152,5 +168,21 @@
 ### Related Reference
 
 - Explore Brain-Inspired Machine Intelligence for Connecting Dots on Graphs Through Holographic Blueprint of Oscillatory Synchronization — *Nature Communications*, 2025. Cross-reference from Topic 3.
+
+---
+
+---
+
+## Topic 11：System Identification & Control
+
+### Main Reference
+
+- **Distinguishing Pairwise and Higher-Order Interactions in Coupled Oscillators from Time Series** — *Communications Physics*, 2026.
+- **Modulatability of Complex Oscillators** — *Nature Computational Science*, 2026.
+
+### Related Reference
+
+- Inferring Coupling Strengths in Synchronized Oscillators — *arXiv preprint*, 2026.
+- Learning Memory Forces and Bounding Frequency Errors in Fractional Kuramoto Grids — *arXiv preprint*, 2026.
 
 ---

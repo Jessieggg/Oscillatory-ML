@@ -57,19 +57,15 @@
 - **Artificial Kuramoto Oscillatory Neurons (AKOrN)** — *ICLR*, 2025.
 - **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** — *ICML*, 2026.
 - **Winfree Oscillatory Neural Network** — *NeurIPS*, 2026, Spotlight.
-
+- **Enhancing Deep Neural Networks Through Complex-Valued Representations and Kuramoto Synchronization Dynamics (KomplexNet)** — *Transactions on Machine Learning Research (TMLR)*, 2025.
+- ** Exploring Synchrony for Communication in Modular Neural Networks (SyncNet) **— *arXiv preprint*, 2026.
+  
 ### Related Reference
-
 - From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach — *AISTATS*, 2024.
 - KuraNet: Systems of Coupled Oscillators that Learn to Synchronize — *arXiv preprint*, 2021.
 - The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics — *arXiv preprint*, 2026.
 - Binding Threshold Units with Artificial Oscillatory Neurons — *arXiv preprint*, 2025.
-
-### Binding & Communication
-
-- **Rotating Features for Object Discovery** — *NeurIPS*, 2023.
-- **Enhancing Deep Neural Networks Through Complex-Valued Representations and Kuramoto Synchronization Dynamics (KomplexNet)** — *Transactions on Machine Learning Research (TMLR)*, 2025.
-- Exploring Synchrony for Communication in Modular Neural Networks (SyncNet) — *arXiv preprint*, 2026.
+- Rotating Features for Object Discovery — *NeurIPS*, 2023.
 
 ---
 
@@ -78,17 +74,14 @@
 ### Main Reference
 
 - **Krause Synchronization Transformers** — *ICML*, 2026.
-- **Attention by Synchronization in Coupled Oscillator Networks** — *arXiv preprint*, 2026.
-- **Kuramoto Attention: Synchronizing Self-Attention on the Torus** — *arXiv preprint*, 2026.
-- **Attention as Frustrated Synchronization** — *arXiv preprint*, 2026.
+- **Attention by Synchronization in Coupled Oscillator Networks** — *TRANSACTIONS ON MACHINE LEARNING RESEARCH*, 2026.
 
 ### Related Reference
-
+- Kuramoto Attention: Synchronizing Self-Attention on the Torus — *arXiv preprint*, 2026.
+- Attention as Frustrated Synchronization — *arXiv preprint*, 2026.
 - The Emergence of Clusters in Self-Attention Dynamics — *NeurIPS*, 2023.
 - Clustering in Causal Attention Masking — *NeurIPS*, 2024.
 - Normalization in Attention Dynamics — *NeurIPS*, 2025.
-- Hopfield Networks is All You Need — *ICLR*, 2021.
-
 ---
 
 ## Topic 6：Kuramoto for Generative Modeling
@@ -102,11 +95,7 @@
 
 - Score-Based Generative Modeling through Stochastic Differential Equations — *ICLR*, 2021.
 - Orientation Diffusions — *IEEE Transactions on Image Processing*, 1998.
-
-### Project Reference
-
-- Introducing Un-0: Generating Images with Coupled Oscillators — *Unconventional AI project blog and code release (not peer-reviewed)*, 2026.
-
+- Introducing Un-0: Generating Images with Coupled Oscillators — *An project blog and code release (not peer-reviewed)*, 2026.
 ---
 
 ## Topic 7：Oscillatory State-Space Models
@@ -138,7 +127,7 @@
 
 ---
 
-## Topic 9：Traveling Waves & Memory
+## Topic 9：Traveling Waves
 
 ### Main Reference
 
@@ -150,8 +139,9 @@
 - Learnable Sequential Memory in Coupled Oscillator Networks — *arXiv preprint*, 2026.
 - NAACA: Training-Free NeuroAuditory Attentive Cognitive Architecture with Oscillatory Working Memory for Salience-Driven Attention Gating — *ICML*, 2026.
 - The Functional Role of Oscillatory Dynamics in Neocortical Circuits: A Computational Perspective — *Proceedings of the National Academy of Sciences (PNAS)*, 2025. Cross-reference from Topic 3.
+---
 
-### Associative Memory
+### Topic 10：Associative Memory
 
 - **Oscillatory Associative Memory with Exponential Capacity** — *IEEE Conference on Decision and Control (CDC)*, 2025.
 - Higher-Order Kuramoto Oscillator Network for Dense Associative Memory — *arXiv preprint*, 2025.
@@ -159,7 +149,7 @@
 
 ---
 
-## Topic 10：Oscillatory Models for Bio
+## Topic 11：Oscillatory Models for Bio
 
 ### Main Reference
 
@@ -169,7 +159,6 @@
 
 - Explore Brain-Inspired Machine Intelligence for Connecting Dots on Graphs Through Holographic Blueprint of Oscillatory Synchronization — *Nature Communications*, 2025. Cross-reference from Topic 3.
 
----
 
 ---
 

@@ -58,7 +58,7 @@
 - **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** — *ICML*, 2026.
 - **Winfree Oscillatory Neural Network** — *NeurIPS*, 2026, Spotlight.
 - **Enhancing Deep Neural Networks Through Complex-Valued Representations and Kuramoto Synchronization Dynamics (KomplexNet)** — *Transactions on Machine Learning Research (TMLR)*, 2025.
-- ** Exploring Synchrony for Communication in Modular Neural Networks (SyncNet) **— *arXiv preprint*, 2026.
+- **Exploring Synchrony for Communication in Modular Neural Networks (SyncNet)**— *arXiv preprint*, 2026.
   
 ### Related Reference
 - From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach — *AISTATS*, 2024.
@@ -127,7 +127,7 @@
 
 ---
 
-## Topic 9：Traveling Waves
+### Topic 9：Traveling Waves
 
 ### Main Reference
 
@@ -162,7 +162,7 @@
 
 ---
 
-## Topic 11：System Identification & Control
+## Topic 12：System Identification & Control
 
 ### Main Reference
 
